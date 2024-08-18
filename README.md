@@ -2,7 +2,7 @@
 
 * Conducted an in-depth analysis of churned and newly joined customers, providing insights into customer behavior and retention trends on different metrics.
 
-*Created a Dim Date table using DAX to effectively handle time-based analysis and enhance the accuracy of data-driven insights.
+* Created a Dim Date table using DAX to effectively handle time-based analysis and enhance the accuracy of data-driven insights.
 
 * Made a customized interactive dashboard theme.
 * Developed an AI-powered helper page using Q&A and Key Influencers visual to offer interactive user solutions, making the dashboard more intuitive and responsive to user queries.
